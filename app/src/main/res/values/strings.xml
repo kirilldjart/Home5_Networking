@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home5_Networking</string>
+    <string name="title_recyclerview">RecyclerView</string>
+
+    <string name="actor_click_action">%1$s selected</string>
+
+    <string name="menu_switch_list">Switch</string>
+    <string name="title_activity_actor_details">ActorDetailsActivity</string>
+</resources>
